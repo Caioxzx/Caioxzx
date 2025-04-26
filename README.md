@@ -1,7 +1,7 @@
   ## Olá! Eu sou Caio Sobrinho 🧑‍🎓
   📚  Programador Front-end junior        
   <div>
-    <img align= "left" alt= "codeSTACKr's github stats" src="https://github-readme-stats-one-kappa-90.vercel.app/api?username=Caioxzx&show_icons=true&hide_border=true" />  
+    <img align= "left" alt= "codeSTACKr's github stats" src="github-readme-stats-one-kappa-90.vercel.app?username=Caioxzx&show_icons=true&hide_border=true" />  
   </div>
   
 
